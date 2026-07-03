@@ -1,0 +1,5 @@
+python-croniter source: file-without-copyright-information
+python-croniter source: no-debian-changes
+python-croniter source: source-contains-prebuilt-windows-binary
+python-croniter source: source-is-missing
+python-croniter source: source-package-encodes-python-version
